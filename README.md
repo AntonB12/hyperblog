@@ -7,3 +7,4 @@ un blog increíble para el curso de git y github de platzi
 &diams; hago ejercicios
 &diams; tomo notas
 &diams; y haber que pasa
+&diams; creado
