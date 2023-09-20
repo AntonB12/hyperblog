@@ -8,3 +8,4 @@ un blog increíble para el curso de git y github de platzi
 &diams; tomo notas
 &diams; y haber que pasa
 &diams; creado
+&diams; incluye ejemplos
