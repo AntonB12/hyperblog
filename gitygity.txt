@@ -1,0 +1,119 @@
+1.Git funciona para muchos tipos de archivo, ¿Qué tal funciona Git con archivos binarios?
+Los puede agregar y versionar pero es mejor usar Git con texto plano.
+correcta
+
+2.¿La terminal ideal para usar Git en Windows es?
+Git Bash o una terminal derivada de Linux
+correcta
+
+3.¿Qué guarda Git?
+Los cambios de los archivos de un proyecto.
+correcta
+
+4.En un commit, los mensajes del commit son:
+Importantes, pero opcionales.
+incorrecta
+
+5.Los cambios a un archivo que están en “staging” están en:
+Solo en tu disco, no están siendo rastreados por Git.
+incorrecta
+
+6.¿Qué es un branch o una rama en Git?
+Un repositorio aparte del master donde puedes trabajar en paralelo.
+incorrecta
+
+7.Con checkout puedo:
+Ver todos los archivos de mi proyecto como los dejé en otras ramas.
+correcta
+
+8.¿El HEAD en una rama es?
+El apuntador al estado inicial de un repositorio en la rama master.
+incorrecta
+
+9.¿Cuándo debería hacer un merge?
+Cuando quiero fusionar los cambios de una rama con otra.
+correcta
+
+10.Cuando hay un conflicto entre archivos lo mejor es:
+Analizar los conflictos tal como los reportó Git y elegir los cambios finales, luego commit.
+correcta
+
+11.¿GitHub es?
+Un sistema online de manejo de repositorios de Git.
+correcta
+
+12.¿Las llaves públicas son?
+Fáciles de compartir y sus mensajes imposibles de descifrar.
+correcta
+
+13.Se crean dos archivos cuando creas una llave pública y privada para SSH, ¿cuál es la extensión de la llave privada?
+.rsa
+
+
+14.¿Qué crean los tags en Git?
+Etiquetas para luego buscar qué tipo de archivos estaba usando y sus categorías.
+incorrecta
+
+15.En un repositorio público en GitHub, ¿qué puede hacer los colaboradores?
+Solo hacer pull requests y con permiso del dueño hacer push/pull, crear ramas, etc.
+incorrecta
+
+16.Para que dos personas trabajen en paralelo sobre el mismo archivo se recomienda:
+Una rama independiente por cada persona y sus cambios que luego con verificación se hace merge a master.
+correcta
+
+17.El dueño de un repositorio al ver un pull request puede:
+Editarlo, aceptarlo, darle merge, comentarlo para pedir cambios.
+correcta
+
+18.Cuando hago un fork de un proyecto en GitHub, ¿lo que logro es?
+Copiar un repositorio público a mis repositorios en GitHub, con todas sus ramas e historia anterior.
+correcta
+
+19.Si ya hiciste el desafío de “Hazme un pull request,” ¿dentro de cuál etiqueta tenías que agregar el cambio?
+<divid="post">
+correcta
+
+20.Si en el .gitignore agrego esto: images/*.js. ¿Cuál de los siguientes archivos sería ignorado?
+images/jquery.js
+correcta
+
+21.Cuando usas git stash, los cambios que “guardas” temporalmente se guardan en:
+Memoria temporal, volviendo al estado del último commit.
+correcta
+
+22.¿Qué puedes hacer con gitk?
+Ver en una interfaz visual las ramas y el log de tu repositorio.
+correcta
+
+23.Si usas: git config --global alias.platzi "shortlog" ¿Cómo invocar ese comando?
+git platzi
+correcta
+
+24.Es mejor aprender a manejar Git con la terminal antes de hacerlo con herramientas visuales como Gitk porque:
+Debemos aprender Git con sus comandos de la terminal para resolver problemas o conflictos más avanzados. Gitk funciona bien, pero no nos permite realizar operaciones tan complejas.
+correcta
+
+25.¿Cómo llaman GitHub y GitLab a los "merges" (propuestas de cambios desde otra rama o repositorio)?
+GitHub los llama Pull Request y GitLab Merge Request.
+correcta
+
+26.¿Puedes conectar tu repositorio local con más de un repositorio remoto?
+Verdadero
+correcta
+
+27.¿Cuál es la diferencia entre git rm y git reset HEAD?
+git rm borra todos los commits y el historial donde aparezcan los archivos. git reset head también, pero guarda los últimos cambios en Staging.
+incorrecta
+
+28.¿Para qué sirve git grep?
+Para encontrar los mensajes de commits que incluyen una cierta palabra.
+incorrecta
+
+29.Por defecto, GitHub usa la rama main como la rama principal. ¿Podemos cambiar la rama principal?
+Verdadero
+correcta
+
+30.El Jefe Freddy despidió a Anita y no piensa volver a contratarla. ¿Qué debe hacer Anita para seguir haciendo contribuciones a los proyectos públicos de Platzi?
+Crear un Fork del proyecto y enviar Pull Request al proyecto original.
+correcta
