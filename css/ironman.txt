@@ -1,0 +1,9 @@
+var ironman = new superheroe();
+
+
+ironman.Id =2;
+ironman.Nombre ="iron man";
+ironman.identidadsecreta ="tony stark";
+ironman.ciudad ="kansas";
+ironman.puedevolar = true;
+ironman.superpoderes = new []{"armadura", "reactor arc", "propulsores", "rayos laser"}
