@@ -1,0 +1,14 @@
+C:\Users\anpoblano\POO\superheroapp\obj\Debug\net7.0\superheroapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anpoblano\POO\superheroapp\obj\Debug\net7.0\superheroapp.AssemblyInfoInputs.cache
+C:\Users\anpoblano\POO\superheroapp\obj\Debug\net7.0\superheroapp.AssemblyInfo.cs
+C:\Users\anpoblano\POO\superheroapp\obj\Debug\net7.0\superheroapp.csproj.CoreCompileInputs.cache
+C:\Users\anpoblano\POO\superheroapp\bin\Debug\net7.0\superheroapp.exe
+C:\Users\anpoblano\POO\superheroapp\bin\Debug\net7.0\superheroapp.deps.json
+C:\Users\anpoblano\POO\superheroapp\bin\Debug\net7.0\superheroapp.runtimeconfig.json
+C:\Users\anpoblano\POO\superheroapp\bin\Debug\net7.0\superheroapp.dll
+C:\Users\anpoblano\POO\superheroapp\bin\Debug\net7.0\superheroapp.pdb
+C:\Users\anpoblano\POO\superheroapp\obj\Debug\net7.0\superheroapp.dll
+C:\Users\anpoblano\POO\superheroapp\obj\Debug\net7.0\refint\superheroapp.dll
+C:\Users\anpoblano\POO\superheroapp\obj\Debug\net7.0\superheroapp.pdb
+C:\Users\anpoblano\POO\superheroapp\obj\Debug\net7.0\superheroapp.genruntimeconfig.cache
+C:\Users\anpoblano\POO\superheroapp\obj\Debug\net7.0\ref\superheroapp.dll
