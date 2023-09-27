@@ -1,0 +1,122 @@
+1.
+¿Cuántos bits utiliza una dirección ipv4?
+32
+correcta
+2.
+¿Cuántos bits tiene un byte?
+8
+correcta
+3.
+El número 27 representado en binario es
+11011
+correcta
+4.
+¿Qué es UNICODE?
+El estándar que define la tabla entre caracteres y su equivalente en bytes
+correcta
+5.
+El procesador solo puede interpretar
+Ceros y unos
+correcta
+6.
+La velocidad de los procesadores se mide en
+Hertz
+correcta
+7.
+Uno de los trabajos más importantes de la BIOS es identificar
+El hardware y periféricos conectados
+correcta
+8.
+¿En dónde se almacena los archivos del sistema operativo?
+Disco duro
+correcta
+9.
+El chip ideal para procesar la representación gráfica de datos en pantalla es
+GPU
+correcta
+10.
+¿Cuál no es una característica de discos duros?
+Almacena los datos de forma temporal
+correcta
+11.
+Un archivo de texto con la palabra "Platzi" debe pesar
+6 bytes
+correcta
+12.
+Los primeros sectores de datos de un disco duro guardan
+El sistema operativo
+incorrecta
+13.
+¿Qué sucede cuando borras un archivo?
+Se sobrescriben los sectores donde estaba el archivo con ceros
+incorrecta
+14.
+¿Qué es lo primero que carga un sistema operativo en RAM?
+El kernel
+correcta
+15.
+¿Qué es un switch en una red?
+El dispositivo que conecta múltiples dispositivos a la misma red
+correcta
+16.
+¿Cuál es la IP que normalmente se refiere al mismo equipo o localhost?
+127.0.0.1
+correcta
+17.
+¿Qué rango de puertos de red requieren permisos de administrador en el sistema operativo para ser usados?
+1 - 1024
+correcta
+18.
+Si compras una conexión de 100Mbps en teoria cuál es la máxima velocidad de descarga:
+~12.5MB/s
+correcta
+19.
+Si un archivo tiene los permisos 750 que usuarios lo pueden editar
+Administrador y usuario
+incorrecta
+20.
+Para que una app móvil tenga acceso al hardware de tu dispositivo debe tener un
+Manifiesto de permisos
+correcta
+21.
+¿Cuál es el sistema operativo por defecto de un Arduino?
+Ninguno
+correcta
+22.
+¿Qué es un System-on-a-Chip?
+Un chip especial que agrupa CPU/GPU y otros chips de un dispositivo
+correcta
+23.
+Un disco de estado sólido es especial porque
+No tiene piezas móviles a nivel de hardware
+correcta
+24.
+La mayor parte del tráfico de Internet viaja a través de
+Cables submarinos
+correcta
+25.
+Quality of Service es
+Como los ISP priorizan el tráfico para darte un mejor servicio
+incorrecta
+26.
+A nivel físico, la limitación de velocidad de una red depende de
+La interferencia electromagnética
+incorrecta
+27.
+Tu computadora personal puede ser un servidor en Internet
+Verdadero
+correcta
+28.
+Un Raspberry Pi con wifi puede ser un servidor en Internet
+Verdadero
+correcta
+29.
+Cuál de los siguientes sistemas operativos tiene un sistema de archivos
+Todos los anteriores
+correcta
+30.
+Cuando ves algo como:
+video/mp4
+¿Qué estás viendo?
+Un MIME type, una definición de tipo de archivo
+correcta
